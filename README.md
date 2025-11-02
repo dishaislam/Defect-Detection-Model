@@ -749,7 +749,7 @@ Contributions are welcome! Here's how you can help:
 ### Author
 **[Your Name]**
 - GitHub: [@dishaislam](https://github.com/dishaislam)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/dishaislam)
+- LinkedIn: [Sharmin Islam Disha](https://linkedin.com/in/dishaislam)
 - Email: dsharminislam@gmail.com
 
 ### Acknowledgments
