@@ -501,19 +501,12 @@ The model is trained to detect the following textile defects:
 ### Main Interface
 > *Upload interface with drag-and-drop functionality*
 
-![Main Interface](docs/screenshots/main_interface.png)
+![Main Interface](C:\Users\disha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-02 225053.png)
 
 ### Prediction Results
 > *Results view showing original image, heatmap, and confidence scores*
 
-![Prediction Results](docs/screenshots/prediction_results.png)
-
-### API Documentation
-> *Auto-generated Swagger UI documentation*
-
-![API Documentation](docs/screenshots/api_docs.png)
-
----
+![Prediction Results](C:\Users\disha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-02 211706.png)
 
 ## ⚙️ Configuration
 
@@ -802,12 +795,6 @@ Found a bug? Please [open an issue](https://github.com/dishaislam/defect-detecti
 - [ ] Automated retraining pipeline
 
 ---
-
-## 📊 Project Status
-
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge)
 
 **Last Updated:** November 2025
 
