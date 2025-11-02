@@ -513,11 +513,6 @@ The model is trained to detect the following textile defects:
 
 ![API Documentation](docs/screenshots/api_docs.png)
 
-### Mobile Responsive
-> *Responsive design works seamlessly on mobile devices*
-
-![Mobile View](docs/screenshots/mobile_view.png)
-
 ---
 
 ## ⚙️ Configuration
@@ -748,43 +743,14 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 [Your Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
 
 ## 👥 Authors & Acknowledgments
 
 ### Author
 **[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@dishaislam](https://github.com/dishaislam)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/dishaislam)
+- Email: dsharminislam@gmail.com
 
 ### Acknowledgments
 - **Ultralytics** for the YOLOv8 implementation
@@ -798,13 +764,12 @@ SOFTWARE.
 ## 📞 Contact & Support
 
 ### Get Help
-- 📧 **Email:** your.email@example.com
-- 💬 **Issues:** [GitHub Issues](https://github.com/yourusername/textile-defect-detection/issues)
-- 📖 **Documentation:** [Wiki](https://github.com/yourusername/textile-defect-detection/wiki)
-- 💼 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
+- 📧 **Email:** dsharminislam@gmail.com
+- 💬 **Issues:** [GitHub Issues](https://github.com/dishaislam/defect-detection/issues)
+- 💼 **LinkedIn:** [Sharmin Islam Disha](https://www.linkedin.com/in/sharmin-islam-disha/)
 
 ### Report a Bug
-Found a bug? Please [open an issue](https://github.com/yourusername/textile-defect-detection/issues/new) with:
+Found a bug? Please [open an issue](https://github.com/dishaislam/defect-detection/issues/new) with:
 - Description of the bug
 - Steps to reproduce
 - Expected behavior
@@ -847,23 +812,9 @@ Found a bug? Please [open an issue](https://github.com/yourusername/textile-defe
 **Last Updated:** November 2025
 
 ---
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/textile-defect-detection&type=Date)](https://star-history.com/#yourusername/textile-defect-detection&Date)
-
----
-
 <div align="center">
 
 ### ⭐ If you find this project useful, please consider giving it a star!
-
-### 🔗 Share with your network
-
-[![Twitter](https://img.shields.io/badge/Share-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20Textile%20Defect%20Detection%20System!&url=https://github.com/yourusername/textile-defect-detection)
-[![LinkedIn](https://img.shields.io/badge/Share-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/yourusername/textile-defect-detection)
-
----
 
 **Built with ❤️ for textile quality assurance**
 
