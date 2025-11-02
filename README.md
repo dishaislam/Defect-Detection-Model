@@ -501,12 +501,12 @@ The model is trained to detect the following textile defects:
 ### Main Interface
 > *Upload interface with drag-and-drop functionality*
 
-![Main Interface](C:\Users\disha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-02 225053.png)
+![Main Interface](https://github.com/dishaislam/Defect-Detection-Model/blob/main/images/Screenshot%202025-11-02%20211706.png)
 
 ### Prediction Results
 > *Results view showing original image, heatmap, and confidence scores*
 
-![Prediction Results](C:\Users\disha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-02 211706.png)
+![Prediction Results](https://github.com/dishaislam/Defect-Detection-Model/blob/main/images/Screenshot%202025-11-02%20211706.png)
 
 ## ⚙️ Configuration
 
