@@ -501,7 +501,7 @@ The model is trained to detect the following textile defects:
 ### Main Interface
 > *Upload interface with drag-and-drop functionality*
 
-![Main Interface](https://github.com/dishaislam/Defect-Detection-Model/blob/main/images/Screenshot%202025-11-02%20211706.png)
+![Main Interface](https://github.com/dishaislam/Defect-Detection-Model/blob/main/images/Screenshot%202025-11-02%20225053.png)
 
 ### Prediction Results
 > *Results view showing original image, heatmap, and confidence scores*
